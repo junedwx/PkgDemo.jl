@@ -11,8 +11,11 @@ makedocs(;
         canonical="https://junedwx.github.io/PkgDemo.jl",
         assets=String[],
     ),
+
     pages=[
         "Home" => "index.md",
+        "Add Nums" => "add_nums.md",
+        "Cat Str" => "cat_str.md",
     ],
 )
 
